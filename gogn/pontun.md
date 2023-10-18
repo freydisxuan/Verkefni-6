@@ -2,7 +2,7 @@
 
 Pantaðu borð og mættu til okkar eða pantaðu mat sem við sendum þér eða þú sækir.
 
-## Form (ekki hafa sér sem titil á síðu)
+## Form (ekki sér titil)
 
 ### Panta borð
 
