@@ -1,0 +1,30 @@
+/* Pöntunarform */
+
+fieldset {
+    border: var(--border-small) solid var(--color-dark);
+  }
+  
+  fieldset legend {
+    font-weight: bold;
+  }
+  
+  fieldset div label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  fieldset input,
+  fieldset select,
+  fieldset textarea {
+    padding: calc(var(--spacing) * 0.5);
+  }
+  
+  fieldset .checkbox label {
+    flex-direction: row;
+    gap: calc(var(--spacing) * 0.5);
+  }
+  
+  form button {
+    padding: calc(var(--spacing) * 0.25);
+    border-radius: var(--border-radius);
+  }

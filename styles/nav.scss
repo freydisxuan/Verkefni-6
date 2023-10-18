@@ -1,0 +1,19 @@
+/** Valmynd **/
+
+.navigation {
+    padding: var(--spacing);
+    width: 100%;
+  
+    background-color: var(--color-light);
+    color: var(--color-dark);
+  }
+  
+  .navigation ul {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing);
+  
+    width: 100%;
+  
+    list-style: none;
+  }
